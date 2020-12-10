@@ -11,5 +11,16 @@
 				"Article Title with Solid Background"
 			]
 		}
+	],
+	"section2s": [
+		{
+			"container": [
+				{
+					"articletitle": [
+						"Article Title with Solid Background"
+					]
+				}
+			]
+		}
 	]
 }
